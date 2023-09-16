@@ -31,7 +31,7 @@ I am a lover Software Developer from Ivory Coast, fueled by curiosity and a love
   <img src='https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg' width='40' height='40'/>
   <img src='https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg' width='40' height='40'/>
   <img src='https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg' width='40' height='40'/>
-    <img src='https://github.com/devicons/devicon/blob/master/icons/ysql/sql-original-wordmark.svg' width='40' height='40'/>
+    <img src='https://github.com/devicons/devicon/blob/master/icons/ysql/sql-wordmark.svg' width='40' height='40'/>
 </div>
 
 ---
