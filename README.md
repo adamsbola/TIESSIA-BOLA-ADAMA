@@ -77,7 +77,8 @@ I am a lover Software Developer from Ivory Coast, fueled by curiosity and a love
       <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=pink" alt="Twitter Badge"/>
     </a>
 </div>
+<div="center">
 <a href="https://komarev.com" color="black" >
 <img src='https://komarev.com/ghpvc/?username=MercyKorir&style=flat-square&color=blue' alt='' />
-
 </a>
+<div>
