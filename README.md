@@ -31,7 +31,15 @@ I am a lover Software Developer from Ivory Coast, fueled by curiosity and a love
   <img src='https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg' width='40' height='40'/>
   <img src='https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg' width='40' height='40'/>
   <img src='https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg' width='40' height='40'/>
-    <img src='https://github.com/devicons/devicon/blob/master/icons/ysql/sql-wordmark.svg' width='40' height='40'/>
+<img src='https://github.com/devicons/devicon/blob/master/icons/ysql/sql-wordmark.svg' width='40' height='40'/>
+<img src='https://github.com/devicons/devicon/blob/master/icons/debian/debian-original.svg'  width='40' height='40'/>
+<img src='https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original.svg' width='40' height='40'/>
+<img src='https://github.com/devicons/devicon/blob/master/icons/azur/azur-original.svg' width='40' height='40'/>
+<img src='https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg' width='40' height='40'/>
+<img src='https://github.com/devicons/devicon/blob/master/icons/ibm/ibm-original.svg' width='40' height='40'/>
+<img src='https://github.com/devicons/devicon/blob/master/icons/azur/azur-original.svg' width='40' height='40'/>
+<img src='https://github.com/devicons/devicon/blob/master/icons/oracle/oracle-original.svg' width='40' height='40'/>
+
 </div>
 
 ---
