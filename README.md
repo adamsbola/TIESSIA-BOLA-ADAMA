@@ -37,8 +37,9 @@ I am a lover Software Developer from Ivory Coast, fueled by curiosity and a love
 <img src='https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg' width='40' height='40'/>
 <img src='https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg' width='40' height='40'/>
 <img src='https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg' width='40' height='40'/>
-<img src='https://github.com/devicons/devicon/blob/master/icons/azur/azur-original.svg' width='40' height='40'/>
+<img src='https://github.com/devicons/devicon/blob/master/icons/raspberrypi/raspberrypi-original.svg' width='40' height='40'/>
 <img src='https://github.com/devicons/devicon/blob/master/icons/oracle/oracle-original.svg' width='40' height='40'/>
+<img src='https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg' width='40' height='40'/>
 
 </div>
 
